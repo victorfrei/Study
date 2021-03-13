@@ -43,8 +43,10 @@ a {
 
 .navmenu-but:hover{
   background-color: whitesmoke !important;
+  color: #10AB5B !important;
 }
 
 .navmenu-but-sel:hover{
   background-color: #0B7F59 !important;
+  
 }
